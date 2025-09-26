@@ -9,7 +9,7 @@ import string
 import io
 
 # Your Telegram Bot Token
-BOT_TOKEN = '8415939288:AAHCQchIdwsZAknJ3jNAY1MXu2b4mpt9a-w'  # Replace with your bot token
+BOT_TOKEN = '8009942983:AAHNNyYZwTooBL09nyRWff4gVdTVYCLNyjI'  # Replace with your bot token
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
